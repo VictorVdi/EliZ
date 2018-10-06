@@ -1,0 +1,18 @@
+teensy 3.2 MK20DX512
+teensy 3.5 MK64FX512
+2 bus I²C
+1 SPI
+1 FPGA
+2 UARTS
+1 UART de flash
+pont en h 8
+(inclues PWM 8)
+codeuses 4
+ax12 2
+capteurs sick 4
+gpio random 10
+flash > 256 ko
+ram idk
+
+PROC:  MK80FN256VLL15 
+FPGA:  XC3S50A-4VQG100C
